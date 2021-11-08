@@ -15,3 +15,5 @@ try {
     print "Error!: " . $e->getMessage() . "<br/>";
     die();
 }
+
+//veja tb o arquivo conexao.php
