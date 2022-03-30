@@ -1,7 +1,7 @@
 *.log
 !important.log
-/namespace
-/php-namespace
-/solid
-/vendor
+namespace
+php-namespace
+solid
+vendor
 composer.json
